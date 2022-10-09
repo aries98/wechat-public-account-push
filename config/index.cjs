@@ -20,7 +20,7 @@ const USER_CONFIG = {
     // 金山每日一句
     CIBA: true,
     // 每日一言
-    oneTalk: true,
+    oneTalk: false,
     // 土味情话(彩虹屁)
     earthyLoveWords: true,
     // 朋友圈文案
@@ -28,20 +28,20 @@ const USER_CONFIG = {
     // 毒鸡汤
     poisonChickenSoup: true,
     // 古诗古文
-    poetry: true,
+    poetry: false,
     /** 星座运势 */
     horoscope: true,
     /** 生日消息和节日消息 */
-    birthdayMessage: true,
+    birthdayMessage: false,
     // 学生课表
-    courseSchedule: false,
+    courseSchedule: true,
   },
 
   USERS: [
     {
       name: '炸鸡',
       id: 'oplc560lfACW6yepbYv7R5zGIEfg',
-      useTemplateId: 'q3mkxhkGpd8wz3aHkPoLjRJZdpppZ0pAWvQLLOG6NJU',
+      useTemplateId: 'KEG7dHL8Ia60x_iCOcTSdCeKUAWfeglGvqKyJfMXo-8',
       CITY: '澳门',
       horoscopeDate: '08-06',
       horoscopeDateType: '今日',
