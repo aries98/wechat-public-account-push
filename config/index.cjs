@@ -1,8 +1,8 @@
 /* eslint-disable */
 
 const USER_CONFIG = {
-  APP_ID: 'wx381abccf57abd78c',
-  APP_SECRET: '36aef423906209e2622fa2f6d2754050',
+  APP_ID: '',
+  APP_SECRET: '',
 
   PROVINCE: '河南',
   CITY: '驻马店',
