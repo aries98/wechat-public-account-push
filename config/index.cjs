@@ -41,7 +41,7 @@ const USER_CONFIG = {
       name: '炸鸡',
       id: 'oplc560lfACW6yepbYv7R5zGIEfg',
       useTemplateId: '4Zp2W8mSNRSxRjUIGxLjMlSdblbFkKpAV2I2i9g8BGc',
-      openUrl: '',
+      openUrl: ' ',
       festivals: [
         {
           type: '*生日', name: '宝贝', year: '2002', date: '08-06',
@@ -66,7 +66,7 @@ const USER_CONFIG = {
       useTemplateId: 'SLO-LCeMstDSZUR0tmKHhsoVAO_OLAcWaY1Oxh1fFA4',
       horoscopeDate: '08-06',
       horoscopeDateType: '今日',
-      openUrl: ''
+      openUrl: ' '
     },
   ],
 
