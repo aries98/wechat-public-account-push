@@ -6,10 +6,6 @@ const USER_CONFIG = {
   // true加载字体颜色，false加载emoji表情
   IS_SHOW_COLOR: true,
   
-  // 默认城市、天气
-  PROVINCE: '河南',
-  CITY: '驻马店',
-  
   // 功能开关
   SWITCH: {
     /** 每日天气 */
@@ -41,10 +37,10 @@ const USER_CONFIG = {
     {
       name: '炸鸡',
       id: 'oplc560lfACW6yepbYv7R5zGIEfg',
-      useTemplateId: 'J1cDj-GGQ7kp9Z8et2olGcgdZhlsLYWFVv6PkIdc5-M',
+      useTemplateId: '4Zp2W8mSNRSxRjUIGxLjMlSdblbFkKpAV2I2i9g8BGc',
       PROVINCE: '澳门',
       CITY: '澳门',
-      openUrl: 'https://weathernew.pae.baidu.com/weathernew/pc?query=%E6%BE%B3%E9%97%A8%E5%A4%A9%E6%B0%94&srcid=4982',
+      openUrl: '',
       festivals: [
         {
           type: '*生日', name: '宝贝', year: '2002', date: '08-06',
@@ -64,11 +60,12 @@ const USER_CONFIG = {
       ],
     },
     {
-      name: '炸鸡',
+      name: '亲爱的炸鸡宝贝',
       id: 'oplc560lfACW6yepbYv7R5zGIEfg',
-      useTemplateId: 'CJUFWVB-LqAfO1T8zDL4IJXnkJ1B-xlsXNMAQsKtNVE',
+      useTemplateId: 'mmgNZuGwN0W-agFipaa_fLNVs2WrC-O9hm71sF069mA',
       horoscopeDate: '08-06',
       horoscopeDateType: '今日',
+      openUrl: ''
     },
   ],
 
