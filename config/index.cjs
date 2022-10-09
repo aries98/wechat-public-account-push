@@ -50,7 +50,6 @@ const USER_CONFIG = {
       ],
       customizedDateList: [
         { keyword: 'love_day', date: '2021-03-02' },
-        // { keyword: 'marry_day', date: '2022-09-09' },
       ],
     },
   ],
