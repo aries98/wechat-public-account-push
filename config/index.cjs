@@ -6,6 +6,9 @@ const USER_CONFIG = {
   // true加载字体颜色，false加载emoji表情
   IS_SHOW_COLOR: true,
   
+  PROVINCE: '澳门',
+  CITY: '澳门',
+  
   // 功能开关
   SWITCH: {
     /** 每日天气 */
@@ -38,8 +41,6 @@ const USER_CONFIG = {
       name: '炸鸡',
       id: 'oplc560lfACW6yepbYv7R5zGIEfg',
       useTemplateId: '4Zp2W8mSNRSxRjUIGxLjMlSdblbFkKpAV2I2i9g8BGc',
-      PROVINCE: '澳门',
-      CITY: '澳门',
       openUrl: '',
       festivals: [
         {
@@ -62,7 +63,7 @@ const USER_CONFIG = {
     {
       name: '亲爱的炸鸡宝贝',
       id: 'oplc560lfACW6yepbYv7R5zGIEfg',
-      useTemplateId: 'mmgNZuGwN0W-agFipaa_fLNVs2WrC-O9hm71sF069mA',
+      useTemplateId: 'SLO-LCeMstDSZUR0tmKHhsoVAO_OLAcWaY1Oxh1fFA4',
       horoscopeDate: '08-06',
       horoscopeDateType: '今日',
       openUrl: ''
