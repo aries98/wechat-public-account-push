@@ -143,7 +143,8 @@ const USER_CONFIG = {
           '08:00-09:35 高等数学',
           '09:50-11:25 高等物理'
         ],
-    },
+      ]
+    }
   ],
 
   CALLBACK_TEMPLATE_ID: 'kCS9jRHrohM4RhEim4JofoXuTcM5KovYM8SzKsaaqPY',
