@@ -1,20 +1,11 @@
 /* eslint-disable */
 
-/**
- * 此项目配置为方便新人使用，已缩减至最简配置。
- * 如若想使用更多功能，请查考文档中的 【3. config参数说明】 
- * 自行添加属性，以支持更多个性化功能
- */
 const USER_CONFIG = {
-
-  // 使用微信测试号：公众号APP_ID
   APP_ID: 'wx381abccf57abd78c',
-
-  // 使用微信测试号：公众号APP_SECRET
   APP_SECRET: '36aef423906209e2622fa2f6d2754050',
 
-  PROVINCE: '中国',
-  CITY: '澳门',
+  PROVINCE: '河南',
+  CITY: '驻马店',
 
   USERS: [
     {
@@ -47,6 +38,21 @@ const USER_CONFIG = {
         // { keyword: 'marry_day', date: '2022-09-09' },
       ],
     },
+    {
+      name: '炸鸡',
+      id: 'oplc560lfACW6yepbYv7R5zGIEfg',
+      useTemplateId: 'oQCXYl9fHLtr6CZn3nTrUC5kGsBWQgsvu2qKO0otR7g',
+      horoscopeDate: '08-06',
+      festivals: [
+        {
+          type: '*生日', name: '宝贝', year: '2002', date: '08-06',
+        },
+      ],
+      customizedDateList: [
+        { keyword: 'love_day', date: '2021-03-02' },
+        // { keyword: 'marry_day', date: '2022-09-09' },
+      ],
+    },
   ],
 
 
@@ -56,7 +62,6 @@ const USER_CONFIG = {
   CALLBACK_USERS: [
     {
       name: '自己',
-      // 使用微信测试号：自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oplc568_mIKrWB9N5r2T7Li_ukuQ',
     }
   ],
