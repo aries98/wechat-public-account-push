@@ -39,7 +39,7 @@ const USER_CONFIG = {
   USERS: [
     {
       name: '炸鸡',
-      id: 'oplc560lfACW6yepbYv7R5zGIEfg',
+      id: 'oplc56y_6rAnmyjRBE2pPsU_v_RQ',
       useTemplateId: '4Zp2W8mSNRSxRjUIGxLjMlSdblbFkKpAV2I2i9g8BGc',
       openUrl: ' ',
       festivals: [
@@ -62,7 +62,7 @@ const USER_CONFIG = {
     },
     {
       name: '亲爱的炸鸡宝贝',
-      id: 'oplc560lfACW6yepbYv7R5zGIEfg',
+      id: 'oplc56y_6rAnmyjRBE2pPsU_v_RQ',
       useTemplateId: 'SLO-LCeMstDSZUR0tmKHhsoVAO_OLAcWaY1Oxh1fFA4',
       horoscopeDate: '08-06',
       horoscopeDateType: '今日',
