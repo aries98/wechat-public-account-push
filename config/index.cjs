@@ -18,15 +18,15 @@ const USER_CONFIG = {
     // 下一休息日综合提醒
     holidaytts: true,
     // 金山每日一句
-    CIBA: true,
+    CIBA: false,
     // 每日一言
-    oneTalk: false,
+    oneTalk: true,
     // 土味情话(彩虹屁)
     earthyLoveWords: true,
     // 朋友圈文案
-    momentCopyrighting: true,
+    momentCopyrighting: false,
     // 毒鸡汤
-    poisonChickenSoup: true,
+    poisonChickenSoup: false,
     // 古诗古文
     poetry: false,
     /** 星座运势 */
@@ -41,11 +41,10 @@ const USER_CONFIG = {
     {
       name: '炸鸡',
       id: 'oplc560lfACW6yepbYv7R5zGIEfg',
-      useTemplateId: 'jedWTvD62O8YCeJkRZOJLYuSg9NaFcxECHpdbbl4rxE',
+      useTemplateId: 'J1cDj-GGQ7kp9Z8et2olGcgdZhlsLYWFVv6PkIdc5-M',
+      PROVINCE: '澳门',
       CITY: '澳门',
-      horoscopeDate: '08-06',
-      horoscopeDateType: '今日',
-      openUrl: 'https://wangxinleo.cn',
+      openUrl: 'https://weathernew.pae.baidu.com/weathernew/pc?query=%E6%BE%B3%E9%97%A8%E5%A4%A9%E6%B0%94&srcid=4982',
       festivals: [
         {
           type: '*生日', name: '宝贝', year: '2002', date: '08-06',
@@ -55,96 +54,22 @@ const USER_CONFIG = {
         { keyword: 'love_day', date: '2021-03-02' },
       ],
       courseSchedule: [
-        [
-          '08:00-09:35 高等数学',
-          '09:50-11:25 高等物理'
-        ],
-        [
-          '08:00-09:35 高等数学',
-          '09:50-11:25 高等物理'
-        ],
-        // 周三
-        [],
-        [
-          '08:00-09:35 高等数学',
-          '09:50-11:25 高等物理'
-        ],
-        [
-          '08:00-09:35 高等数学',
-          '09:50-11:25 高等物理'
-        ],
-        [],
-        [
-          '08:00-09:35 高等数学',
-          '09:50-11:25 高等物理'
-        ],
+        ['08:00-09:35 高等数学，09:50-11:25 高等物理'],
+        ['08:00-09:35 高等数学，09:50-11:25 高等物理'],
+        ['今天没课哦'],
+        ['08:00-09:35 高等数学，09:50-11:25 高等物理'],
+        ['08:00-09:35 高等数学，09:50-11:25 高等物理'],
+        ['今天没课哦'],
+        ['今天没课哦'],
       ],
     },
     {
       name: '炸鸡',
       id: 'oplc560lfACW6yepbYv7R5zGIEfg',
-      useTemplateId: '-2Wnytps6pOWWzI-i7WDnC0B2PLPDQi5_dWUBd4XOw8',
-      CITY: '澳门',
+      useTemplateId: 'CJUFWVB-LqAfO1T8zDL4IJXnkJ1B-xlsXNMAQsKtNVE',
       horoscopeDate: '08-06',
       horoscopeDateType: '今日',
     },
-    {
-      name: '炸鸡',
-      id: 'oplc560lfACW6yepbYv7R5zGIEfg',
-      useTemplateId: 'DFHxS0PLn5zGh-9XAd1IkFIGcoPuLvz3IrvQc1DyboM',
-      CITY: '澳门',
-      horoscopeDate: '08-06',
-      horoscopeDateType: '今日',
-    },
-    {
-      name: '炸鸡',
-      id: 'oplc560lfACW6yepbYv7R5zGIEfg',
-      useTemplateId: '	U1DAxpycnj28wW_7SlzxFGJDGSmxFcG60-sWoNHR298',
-      CITY: '澳门',
-      horoscopeDate: '08-06',
-      horoscopeDateType: '今日',
-    },
-    {
-      name: '炸鸡',
-      id: 'oplc560lfACW6yepbYv7R5zGIEfg',
-      useTemplateId: 'Yiq9GORwRr_FnVIffYYoqPmq1ubyAk0m5f99BqgiYEA',
-      CITY: '澳门',
-      horoscopeDate: '08-06',
-      horoscopeDateType: '今日',
-    },
-    {
-      name: '炸鸡',
-      id: 'oplc560lfACW6yepbYv7R5zGIEfg',
-      useTemplateId: 'GghGWqNvaNmaEm4rUDAffoNRuEBDGJr4avqnJ4G8RXo',
-      CITY: '澳门',
-      horoscopeDate: '08-06',
-      horoscopeDateType: '今日',
-      courseSchedule: [
-        [
-          '08:00-09:35 高等数学',
-          '09:50-11:25 高等物理'
-        ],
-        [
-          '08:00-09:35 高等数学',
-          '09:50-11:25 高等物理'
-        ],
-        // 周三
-        [],
-        [
-          '08:00-09:35 高等数学',
-          '09:50-11:25 高等物理'
-        ],
-        [
-          '08:00-09:35 高等数学',
-          '09:50-11:25 高等物理'
-        ],
-        [],
-        [
-          '08:00-09:35 高等数学',
-          '09:50-11:25 高等物理'
-        ],
-      ]
-    }
   ],
 
   CALLBACK_TEMPLATE_ID: 'kCS9jRHrohM4RhEim4JofoXuTcM5KovYM8SzKsaaqPY',
