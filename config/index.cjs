@@ -41,7 +41,7 @@ const USER_CONFIG = {
     {
       name: '炸鸡',
       id: 'oplc560lfACW6yepbYv7R5zGIEfg',
-      useTemplateId: 'oQCXYl9fHLtr6CZn3nTrUC5kGsBWQgsvu2qKO0otR7g',
+      useTemplateId: 'q3mkxhkGpd8wz3aHkPoLjRJZdpppZ0pAWvQLLOG6NJU',
       CITY: '澳门',
       horoscopeDate: '08-06',
       horoscopeDateType: '今日',
