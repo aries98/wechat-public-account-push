@@ -41,7 +41,7 @@ const USER_CONFIG = {
     {
       name: '炸鸡',
       id: 'oplc560lfACW6yepbYv7R5zGIEfg',
-      useTemplateId: 'KEG7dHL8Ia60x_iCOcTSdCeKUAWfeglGvqKyJfMXo-8',
+      useTemplateId: 'jedWTvD62O8YCeJkRZOJLYuSg9NaFcxECHpdbbl4rxE',
       CITY: '澳门',
       horoscopeDate: '08-06',
       horoscopeDateType: '今日',
@@ -79,6 +79,70 @@ const USER_CONFIG = {
           '09:50-11:25 高等物理'
         ],
       ],
+    },
+    {
+      name: '炸鸡',
+      id: 'oplc560lfACW6yepbYv7R5zGIEfg',
+      useTemplateId: '-2Wnytps6pOWWzI-i7WDnC0B2PLPDQi5_dWUBd4XOw8',
+      CITY: '澳门',
+      horoscopeDate: '08-06',
+      horoscopeDateType: '今日',
+    },
+    {
+      name: '炸鸡',
+      id: 'oplc560lfACW6yepbYv7R5zGIEfg',
+      useTemplateId: 'DFHxS0PLn5zGh-9XAd1IkFIGcoPuLvz3IrvQc1DyboM',
+      CITY: '澳门',
+      horoscopeDate: '08-06',
+      horoscopeDateType: '今日',
+    },
+    {
+      name: '炸鸡',
+      id: 'oplc560lfACW6yepbYv7R5zGIEfg',
+      useTemplateId: '	U1DAxpycnj28wW_7SlzxFGJDGSmxFcG60-sWoNHR298',
+      CITY: '澳门',
+      horoscopeDate: '08-06',
+      horoscopeDateType: '今日',
+    },
+    {
+      name: '炸鸡',
+      id: 'oplc560lfACW6yepbYv7R5zGIEfg',
+      useTemplateId: 'Yiq9GORwRr_FnVIffYYoqPmq1ubyAk0m5f99BqgiYEA',
+      CITY: '澳门',
+      horoscopeDate: '08-06',
+      horoscopeDateType: '今日',
+    },
+    {
+      name: '炸鸡',
+      id: 'oplc560lfACW6yepbYv7R5zGIEfg',
+      useTemplateId: 'GghGWqNvaNmaEm4rUDAffoNRuEBDGJr4avqnJ4G8RXo',
+      CITY: '澳门',
+      horoscopeDate: '08-06',
+      horoscopeDateType: '今日',
+      courseSchedule: [
+        [
+          '08:00-09:35 高等数学',
+          '09:50-11:25 高等物理'
+        ],
+        [
+          '08:00-09:35 高等数学',
+          '09:50-11:25 高等物理'
+        ],
+        // 周三
+        [],
+        [
+          '08:00-09:35 高等数学',
+          '09:50-11:25 高等物理'
+        ],
+        [
+          '08:00-09:35 高等数学',
+          '09:50-11:25 高等物理'
+        ],
+        [],
+        [
+          '08:00-09:35 高等数学',
+          '09:50-11:25 高等物理'
+        ],
     },
   ],
 
