@@ -6,7 +6,7 @@ const USER_CONFIG = {
   // true加载字体颜色，false加载emoji表情
   IS_SHOW_COLOR: true,
   
-  PROVINCE: '澳门',
+  PROVINCE: '',
   CITY: '澳门',
   
   // 功能开关
