@@ -39,7 +39,7 @@ const USER_CONFIG = {
   USERS: [
     {
       name: '炸鸡',
-      id: 'oplc560lfACW6yepbYv7R5zGIEfg',
+      id: 'oplc56y_6rAnmyjRBE2pPsU_v_RQ',
       useTemplateId: '4Zp2W8mSNRSxRjUIGxLjMlSdblbFkKpAV2I2i9g8BGc',
       openUrl: ' ',
       festivals: [
@@ -51,18 +51,18 @@ const USER_CONFIG = {
         { keyword: 'love_day', date: '2021-03-02' },
       ],
       courseSchedule: [
-        ['08:00-09:35 高等数学，09:50-11:25 高等物理'],
-        ['08:00-09:35 高等数学，09:50-11:25 高等物理'],
+        ['09:00-12:00 大学英语C3'],
+        ['12:15-15:15 旅游服务管理'],
         ['今天没课哦'],
-        ['08:00-09:35 高等数学，09:50-11:25 高等物理'],
-        ['08:00-09:35 高等数学，09:50-11:25 高等物理'],
+        ['12:15-15:15 专业英语'],
+        ['15:30-18:30 旅游市场，19:00-22:00 西方文化概论'],
         ['今天没课哦'],
         ['今天没课哦'],
       ],
     },
     {
       name: '亲爱的炸鸡宝贝',
-      id: 'oplc560lfACW6yepbYv7R5zGIEfg',
+      id: 'oplc56y_6rAnmyjRBE2pPsU_v_RQ',
       useTemplateId: 'SLO-LCeMstDSZUR0tmKHhsoVAO_OLAcWaY1Oxh1fFA4',
       horoscopeDate: '08-06',
       horoscopeDateType: '今日',
