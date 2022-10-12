@@ -39,6 +39,51 @@ const USER_CONFIG = {
   USERS: [
     {
       name: '炸鸡',
+      id: 'oplc568_mIKrWB9N5r2T7Li_ukuQ',
+      useTemplateId: '4Zp2W8mSNRSxRjUIGxLjMlSdblbFkKpAV2I2i9g8BGc',
+      openUrl: ' ',
+      festivals: [
+        {
+          type: '*生日', name: '宝贝', year: '2002', date: '08-06',
+        },
+      ],
+      customizedDateList: [
+        { keyword: 'love_day', date: '2021-03-02' },
+      ],
+      courseSchedule: [
+        ['09:00-12:00 大学英语C3'],
+        ['12:15-15:15 旅游服务管理'],
+        ['今天没课哦'],
+        ['12:15-15:15 专业英语'],
+        ['15:30-18:30 旅游市场，19:00-22:00 西方文化概论'],
+        ['今天没课哦'],
+        ['今天没课哦'],
+      ],
+    },
+    {
+      name: '亲爱的炸鸡宝贝',
+      id: 'oplc568_mIKrWB9N5r2T7Li_ukuQ',
+      useTemplateId: 'SLO-LCeMstDSZUR0tmKHhsoVAO_OLAcWaY1Oxh1fFA4',
+      horoscopeDate: '08-06',
+      horoscopeDateType: '今日',
+      openUrl: ' '
+    },
+    {
+      name: '11',
+      id: 'oplc568_mIKrWB9N5r2T7Li_ukuQ',
+      useTemplateId: 'xonUZbqpitewDk7XwArd9ctapUHNxJ6GQZIB4zlE270',
+      openUrl: ' '
+    }
+  ],
+
+  CALLBACK_TEMPLATE_ID: 'kCS9jRHrohM4RhEim4JofoXuTcM5KovYM8SzKsaaqPY',
+  CALLBACK_USERS: [
+    {
+      name: '自己',
+      id: 'oplc568_mIKrWB9N5r2T7Li_ukuQ',
+    },
+    {
+      name: '炸鸡',
       id: 'oplc560lfACW6yepbYv7R5zGIEfg',
       useTemplateId: '4Zp2W8mSNRSxRjUIGxLjMlSdblbFkKpAV2I2i9g8BGc',
       openUrl: ' ',
@@ -75,14 +120,6 @@ const USER_CONFIG = {
       openUrl: ' '
     }
   ],
-
-  CALLBACK_TEMPLATE_ID: 'kCS9jRHrohM4RhEim4JofoXuTcM5KovYM8SzKsaaqPY',
-  CALLBACK_USERS: [
-    {
-      name: '自己',
-      id: 'oplc568_mIKrWB9N5r2T7Li_ukuQ',
-    }
-  ],
   
   SLOT_LIST: [
     {
@@ -94,8 +131,7 @@ const USER_CONFIG = {
         '遇见你，就好像捡到了100斤的运气'
       ],
     },
-    { keyword: 'encourage_oneself', contents: '1、西方文化概论的ppt和资料（10.15/10.21)\n 2、中国服贸会(10.18)'},
-    { keyword: 'encourage_oneselfs', contents: '1、西方文化概论的ppt和资料（10.15/10.21/n/t \n\t2、中国服贸会(10.18s)'},
+    { keyword: 'home_work', contents: '1、西方文化概论的ppt和资料（10.15/10.21)\n2、中国服贸会(10.18)\n3、英语ppt（日本精神健康）(10.24)\n4、维也纳swot和总结\n5、海底捞\n6、专业英语ppt'},
   ],
 }
 
