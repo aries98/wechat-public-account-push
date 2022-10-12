@@ -62,7 +62,7 @@ const USER_CONFIG = {
     },
     {
       name: '亲爱的炸鸡宝贝',
-      id: 'oplc560lfACW6yepbYv7R5zGIEfg,oplc568_mIKrWB9N5r2T7Li_ukuQ',
+      id: 'oplc560lfACW6yepbYv7R5zGIEfg',
       useTemplateId: 'SLO-LCeMstDSZUR0tmKHhsoVAO_OLAcWaY1Oxh1fFA4',
       horoscopeDate: '08-06',
       horoscopeDateType: '今日',
@@ -71,7 +71,7 @@ const USER_CONFIG = {
     {
       name: '11',
       id: 'oplc560lfACW6yepbYv7R5zGIEfg',
-      useTemplateId: '	QkPciLCHfAftj4L9mpWRHGGtoR0ZNUa8W8AR9F_jzmw',
+      useTemplateId: 'QkPciLCHfAftj4L9mpWRHGGtoR0ZNUa8W8AR9F_jzmw',
       openUrl: ' '
     }
   ],
