@@ -39,7 +39,7 @@ const USER_CONFIG = {
   USERS: [
     {
       name: '炸鸡',
-      id: 'oplc56y_6rAnmyjRBE2pPsU_v_RQ',
+      id: 'oplc560lfACW6yepbYv7R5zGIEfg',
       useTemplateId: '4Zp2W8mSNRSxRjUIGxLjMlSdblbFkKpAV2I2i9g8BGc',
       openUrl: ' ',
       festivals: [
@@ -62,12 +62,18 @@ const USER_CONFIG = {
     },
     {
       name: '亲爱的炸鸡宝贝',
-      id: 'oplc56y_6rAnmyjRBE2pPsU_v_RQ',
+      id: 'oplc560lfACW6yepbYv7R5zGIEfg,oplc568_mIKrWB9N5r2T7Li_ukuQ',
       useTemplateId: 'SLO-LCeMstDSZUR0tmKHhsoVAO_OLAcWaY1Oxh1fFA4',
       horoscopeDate: '08-06',
       horoscopeDateType: '今日',
       openUrl: ' '
     },
+    {
+      name: '11',
+      id: 'oplc560lfACW6yepbYv7R5zGIEfg',
+      useTemplateId: '	QkPciLCHfAftj4L9mpWRHGGtoR0ZNUa8W8AR9F_jzmw',
+      openUrl: ' '
+    }
   ],
 
   CALLBACK_TEMPLATE_ID: 'kCS9jRHrohM4RhEim4JofoXuTcM5KovYM8SzKsaaqPY',
@@ -87,7 +93,10 @@ const USER_CONFIG = {
         '你很傻，你很笨，可我还是很羡慕你，因为你有我',
         '遇见你，就好像捡到了100斤的运气'
       ],
-    }
+    },
+    { keyword: 'encourage_oneself', contents: '1、西方文化概论的ppt和资料（10.15/10.21)\n 2、中国服贸会(10.18)'},
+    { keyword: 'encourage_oneselfs', contents: '1、西方文化概论的ppt和资料（10.15/10.21)'\
+     '2、中国服贸会(10.18)'},
   ],
 }
 
