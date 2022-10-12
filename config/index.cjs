@@ -95,8 +95,7 @@ const USER_CONFIG = {
       ],
     },
     { keyword: 'encourage_oneself', contents: '1、西方文化概论的ppt和资料（10.15/10.21)\n 2、中国服贸会(10.18)'},
-    { keyword: 'encourage_oneselfs', contents: '1、西方文化概论的ppt和资料（10.15/10.21
-2、中国服贸会(10.18s)'},
+    { keyword: 'encourage_oneselfs', contents: '1、西方文化概论的ppt和资料（10.15/10.21/n/t \n\t2、中国服贸会(10.18s)'},
   ],
 }
 
