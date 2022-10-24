@@ -70,7 +70,7 @@ const USER_CONFIG = {
     },
     {
       name: '炸鸡作业',
-      id: 'oplc56y_6rAnmyjRBE2pPsU_v_RQ',
+      id: '_oplc56y_6rAnmyjRBE2pPsU_v_RQ',
       useTemplateId: '9saVkqGFAl9VwP7PT59t-Guvb30PSB3rAF3ZjphL6yw',
       openUrl: ' '
     },
@@ -131,7 +131,7 @@ const USER_CONFIG = {
         '遇见你，就好像捡到了100斤的运气'
       ],
     },
-    { keyword: 'home_work', contents: '1、西方文化概论的ppt和资料（10.15/10.21)\n2、中国服贸会(10.18)\n3、英语ppt（日本精神健康）(10.24)\n4、维也纳swot和总结\n5、海底捞\n6、专业英语ppt'},
+    { keyword: 'home_work', contents: ''},
   ],
 }
 
